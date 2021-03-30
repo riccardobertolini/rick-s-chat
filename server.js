@@ -30,4 +30,4 @@ io.on("connection", (socket) => {
   });
 });
 
-server.listen();
+server.listen(3030);
